@@ -1,0 +1,39 @@
+Subscription Tracker — install on an Android phone
+=================================================
+
+The file you install is Subscription-Tracker.apk.
+It opens the same pages as the published tracker, full screen, so the look matches.
+
+Before you start
+----------------
+1. Publish the tracker.
+2. Copy the public link. It must start with https://
+
+Install
+-------
+1. Download Subscription-Tracker.apk onto the phone.
+   If it downloaded onto a computer, send the file to the phone
+   (mail, Drive, or a cable) and open it there.
+2. Tap the file.
+3. If the phone asks, allow installs from that app (Files or Chrome).
+   That warning is normal. This is your own install, not a Play Store download.
+4. Tap Install, then Open.
+
+First open
+----------
+1. Paste the published link.
+2. Tap Open tracker.
+3. The same Home, List, AI, and Settings pages appear.
+4. When the phone asks, allow photos or the camera so a receipt picture can be chosen.
+
+After that, tap the Subscription Tracker icon like any other app.
+Bills stay in this install. Receipt reading needs a connection.
+
+Change the link later
+----------------------
+Phone Settings → Apps → Subscription Tracker → Storage → Clear storage.
+Open the app again and paste the new link.
+Clearing storage also removes bills saved in this install.
+
+This file does not put the app on the Play Store.
+An iPhone cannot install this file.

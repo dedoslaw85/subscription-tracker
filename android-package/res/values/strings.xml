@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Subscription Tracker</string>
+    <string name="setup_kicker">Subscription Tracker</string>
+    <string name="setup_title">Open your tracker</string>
+    <string name="setup_body">Paste the published link. This app then shows those same pages, full screen.</string>
+    <string name="link_hint">https://</string>
+    <string name="open">Open tracker</string>
+    <string name="link_invalid">Paste the full link, starting with https://</string>
+    <string name="link_failed">That link didn’t open. Check it, then try again.</string>
+</resources>
